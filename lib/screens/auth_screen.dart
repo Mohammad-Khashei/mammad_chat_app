@@ -54,7 +54,7 @@ class _AuthScreenState extends State<AuthScreen> {
     }
 
     Navigator.pushAndRemoveUntil(context,
-        MaterialPageRoute(builder: (context) => MyApp()), (route) => false);
+        MaterialPageRoute(builder: (context) => const MyApp()), (route) => false);
   }
 
   @override

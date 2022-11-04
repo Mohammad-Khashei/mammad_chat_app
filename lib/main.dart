@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
             return snapshot.data!;
           }
           // اگر نال بود loading رو نشون بده
-          return Scaffold(
+          return const Scaffold(
             body: Center(
               child: CircularProgressIndicator(),
             ),

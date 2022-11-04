@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+Getting Started
+شروع کار
+
 
 This project is a starting point for a Flutter application.
 

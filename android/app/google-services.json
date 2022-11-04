@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881640244271",
+    "project_id": "mammad-chat-app-4411f",
+    "storage_bucket": "mammad-chat-app-4411f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881640244271:android:7543c8fd6c759b4d4df2da",
+        "android_client_info": {
+          "package_name": "com.example.mammad_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881640244271-5plr6joggge60k14cq00mmg5iejsbosg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mammad_chat_app",
+            "certificate_hash": "6aba3bcbbd388f6383ae6b24cf82eb912d91cdaf"
+          }
+        },
+        {
+          "client_id": "881640244271-nb43ih9ksjhbr7rcagck9ifiaij55ukf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5pViY8KPIOkg6omXaWAaII6HrLbTO8rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881640244271-nb43ih9ksjhbr7rcagck9ifiaij55ukf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
